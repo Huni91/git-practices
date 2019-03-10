@@ -1,0 +1,3 @@
+function getAName(){
+    return 'Huni'
+}
